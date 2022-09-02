@@ -1,3 +1,3 @@
-# Resources and questions 🤓👌
+# Resources and questions 🤓
 
-# Links
+##### Links proporcionados en la cursada
