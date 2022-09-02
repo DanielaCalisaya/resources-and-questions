@@ -24,3 +24,24 @@ Children https://es.reactjs.org/docs/glossary.html#propschildren
 
 ## Clase 45 - El ciclo de vida de los componentes
 
+setState en los componentes stateful https://es.reactjs.org/docs/faq-state.html#what-does-setstate-do
+
+Manejando eventos https://es.reactjs.org/docs/handling-events.html#___gatsby
+
+Ajax y apis https://es.reactjs.org/docs/faq-ajax.html#___gatsby
+
+## Clase 46 - Enlazando los componentes de la aplicación
+
+Componentes primarios https://v5.reactrouter.com/web/guides/primary-components
+
+## Para saber más
+
+El ciclo de vida de los componentes https://medium.com/@jmz12/entendiendo-los-ciclos-de-vida-8a70abb3b51a
+
+React bootstrap https://react-bootstrap.github.io/
+
+Material UI https://mui.com/
+
+Dominando los Hooks en React https://www.paradigmadigital.com/dev/hooks-como-utilizarlos-react/
+
+React Redux https://es.redux.js.org/docs/basico/uso-con-react.html
